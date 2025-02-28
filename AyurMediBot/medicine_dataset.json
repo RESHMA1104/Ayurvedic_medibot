@@ -1,0 +1,192 @@
+[
+  {
+    "medicine_name": "Chyawanprash",
+    "system": "Ayurveda",
+    "ingredients": ["Amla", "Ghee", "Honey", "Ashwagandha", "Pippali"],
+    "conditions_treated": ["Immunity boosting", "Respiratory problems", "General debility"],
+    "dosage": {
+      "adult": "1-2 teaspoons daily",
+      "children": "1/2 to 1 teaspoon daily"
+    },
+    "precautions": ["Avoid in diabetic patients without medical advice"],
+    "side_effects": ["Mild digestive issues in some individuals"]
+  },
+  {
+    "medicine_name": "Nilavembu Kudineer",
+    "system": "Siddha",
+    "ingredients": ["Nilavembu", "Vetiver", "Peypudal", "Chukku", "Vilamichu ver"],
+    "conditions_treated": ["Fever", "Dengue", "Malaria", "Viral infections"],
+    "dosage": {
+      "adult": "30-60ml twice daily after food",
+      "children": "10-30ml twice daily after food"
+    },
+    "precautions": ["Consult a doctor if fever persists"],
+    "side_effects": ["No major side effects reported"]
+  },
+  {
+    "medicine_name": "Shatavari",
+    "system": "Ayurveda",
+    "ingredients": ["Shatavari root"],
+    "conditions_treated": ["Hormonal imbalance", "Fertility issues", "Menopause symptoms"],
+    "dosage": {
+      "adult": "1-2 grams of powder or 500mg extract twice daily"
+    },
+    "precautions": ["Avoid in individuals with estrogen-sensitive conditions"],
+    "side_effects": ["Mild digestive upset in rare cases"]
+  },
+  {
+    "medicine_name": "Arjunarishta",
+    "system": "Ayurveda",
+    "ingredients": ["Arjuna bark", "Gokshura", "Honey", "Dhataki flowers"],
+    "conditions_treated": ["Heart health", "Hypertension", "Angina"],
+    "dosage": {
+      "adult": "15-30ml twice daily with water"
+    },
+    "precautions": ["Consult a doctor if taking heart medications"],
+    "side_effects": ["Mild stomach irritation in rare cases"]
+  },
+  {
+    "medicine_name": "Guggulu",
+    "system": "Ayurveda",
+    "ingredients": ["Guggulu resin", "Triphala", "Pippali", "Ginger"],
+    "conditions_treated": ["Joint pain", "Arthritis", "Obesity"],
+    "dosage": {
+      "adult": "2 tablets twice daily after food"
+    },
+    "precautions": ["Avoid in pregnant women without medical advice"],
+    "side_effects": ["Mild digestive upset"]
+  },
+  {
+    "medicine_name": "Mahayograj Guggulu",
+    "system": "Ayurveda",
+    "ingredients": ["Guggulu", "Trikatu", "Triphala", "Ashwagandha"],
+    "conditions_treated": ["Joint disorders", "Arthritis", "Muscle pain"],
+    "dosage": {
+      "adult": "1-2 tablets twice daily"
+    },
+    "precautions": ["Consult a doctor for long-term use"],
+    "side_effects": ["Mild gastrointestinal issues"]
+  },
+  {
+    "medicine_name": "Brahmi",
+    "system": "Ayurveda",
+    "ingredients": ["Brahmi herb"],
+    "conditions_treated": ["Memory loss", "Anxiety", "Insomnia"],
+    "dosage": {
+      "adult": "1-2 grams of powder or 300-500mg extract daily"
+    },
+    "precautions": ["Avoid in pregnancy"],
+    "side_effects": ["No major side effects reported"]
+  },
+  {
+    "medicine_name": "Khadiradi Vati",
+    "system": "Ayurveda",
+    "ingredients": ["Khadi", "Pepper", "Camphor", "Cinnamon"],
+    "conditions_treated": ["Sore throat", "Oral ulcers", "Cough"],
+    "dosage": {
+      "adult": "1 tablet to be dissolved in the mouth, 3 times a day"
+    },
+    "precautions": ["Avoid in children under 5 years of age"],
+    "side_effects": ["No major side effects reported"]
+  },
+  {
+    "medicine_name": "Kanchnar Guggulu",
+    "system": "Ayurveda",
+    "ingredients": ["Kanchanar bark", "Guggulu", "Triphala", "Pippali"],
+    "conditions_treated": ["Thyroid disorders", "Lymphatic swelling", "Goiter"],
+    "dosage": {
+      "adult": "1-2 tablets twice daily"
+    },
+    "precautions": ["Consult a doctor for thyroid conditions"],
+    "side_effects": ["Mild digestive discomfort"]
+  },
+  {
+    "medicine_name": "Trikatu Churna",
+    "system": "Ayurveda",
+    "ingredients": ["Ginger", "Black pepper", "Pippali"],
+    "conditions_treated": ["Indigestion", "Obesity", "Respiratory issues"],
+    "dosage": {
+      "adult": "1-2 grams daily after meals"
+    },
+    "precautions": ["Avoid in ulcers or gastritis"],
+    "side_effects": ["May cause burning sensation in some individuals"]
+  },
+  {
+    "medicine_name": "Lavan Bhaskar Churna",
+    "system": "Ayurveda",
+    "ingredients": ["Black salt", "Ginger", "Pippali", "Cumin"],
+    "conditions_treated": ["Digestive disorders", "Acid reflux", "Bloating"],
+    "dosage": {
+      "adult": "1-2 grams twice daily with water"
+    },
+    "precautions": ["Avoid in hypertensive patients"],
+    "side_effects": ["Mild digestive discomfort"]
+  },
+  {
+    "medicine_name": "Moringa Capsules",
+    "system": "Ayurveda",
+    "ingredients": ["Moringa leaf extract"],
+    "conditions_treated": ["Nutritional deficiency", "Weakness", "Low energy"],
+    "dosage": {
+      "adult": "1 capsule twice daily"
+    },
+    "precautions": ["Consult a doctor if pregnant"],
+    "side_effects": ["Mild digestive issues in rare cases"]
+  },
+  {
+    "medicine_name": "Ashokarishta",
+    "system": "Ayurveda",
+    "ingredients": ["Ashoka bark", "Dhataki", "Mustak", "Jeera"],
+    "conditions_treated": ["Menstrual disorders", "Menorrhagia", "Dysmenorrhea"],
+    "dosage": {
+      "adult": "15-30ml twice daily with water"
+    },
+    "precautions": ["Consult a doctor if taking hormonal medications"],
+    "side_effects": ["No major side effects reported"]
+  },
+  {
+    "medicine_name": "Punarnavasava",
+    "system": "Ayurveda",
+    "ingredients": ["Punarnava", "Triphala", "Danti", "Musta"],
+    "conditions_treated": ["Edema", "Liver disorders", "Kidney health"],
+    "dosage": {
+      "adult": "15-30ml twice daily after food"
+    },
+    "precautions": ["Avoid in pregnancy without medical advice"],
+    "side_effects": ["Mild digestive issues in rare cases"]
+  },
+  {
+    "medicine_name": "Talisadi Churna",
+    "system": "Ayurveda",
+    "ingredients": ["Talisapatra", "Ginger", "Pippali", "Cardamom"],
+    "conditions_treated": ["Cough", "Cold", "Asthma"],
+    "dosage": {
+      "adult": "1-2 grams with honey twice daily"
+    },
+    "precautions": ["Consult a doctor for persistent cough"],
+    "side_effects": ["No major side effects reported"]
+  },
+  {
+    "medicine_name": "Saraswatarishta",
+    "system": "Ayurveda",
+    "ingredients": ["Brahmi", "Ashwagandha", "Shankhapushpi", "Ghee"],
+    "conditions_treated": ["Memory enhancement", "Anxiety", "Mental fatigue"],
+    "dosage": {
+      "adult": "15-30ml twice daily with water"
+    },
+    "precautions": ["Consult a doctor if on psychotropic medications"],
+    "side_effects": ["No major side effects reported"]
+  },
+  {
+    "medicine_name": "Panchatikta Ghrita",
+    "system": "Ayurveda",
+    "ingredients": ["Neem", "Patola", "Vasa", "Guggulu", "Ghee"],
+    "conditions_treated": ["Skin diseases", "Eczema", "Psoriasis"],
+    "dosage": {
+      "adult": "1-2 teaspoons twice daily with warm water"
+    },
+    "precautions": ["Consult a doctor if skin condition worsens"],
+    "side_effects": ["Mild digestive upset in some individuals"]
+  }
+] 
+  
