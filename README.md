@@ -1,3 +1,3 @@
 # Ayurvedic_medibot
 
-"C:\Users\Reshma\Pictures\Screenshots\Screenshot 2025-02-01 160704.png"
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVbLYYmADgDod_FQF1N8kkhVXy5pUO0uo4DA&s
