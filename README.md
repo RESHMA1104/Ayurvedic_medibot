@@ -19,3 +19,8 @@ Ayurvedic Medibot is an **AI-driven chatbot** that provides **personalized Ayurv
 3️⃣ **AI analyzes symptoms** and maps them to Ayurvedic remedies.  
 4️⃣ **Chatbot responds** with a remedy, including dosage and precautions.  
 5️⃣ **User feedback is collected**, improving AI accuracy over time.  
+
+## Future Enhancements
+ Multilingual Support – Expanding to regional languages for better accessibility.
+ Wearable Device Integration – Connecting with smartwatches for health tracking.
+ Expanded Remedy Database – Adding more Ayurvedic and Siddha treatments.
